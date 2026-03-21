@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mystic-vault--Interactive-Team-Puzzle/static/css/main.1bdb498f.css",
-    "main.js": "/mystic-vault--Interactive-Team-Puzzle/static/js/main.8f7fdf44.js",
-    "static/media/ctf-image-2.jpg": "/mystic-vault--Interactive-Team-Puzzle/static/media/ctf-image-2.2b618e2837fb2efedd27.jpg",
-    "static/media/ctf-image-3.jpg": "/mystic-vault--Interactive-Team-Puzzle/static/media/ctf-image-3.f2226b17ac39f7b47ed0.jpg",
-    "index.html": "/mystic-vault--Interactive-Team-Puzzle/index.html",
-    "main.1bdb498f.css.map": "/mystic-vault--Interactive-Team-Puzzle/static/css/main.1bdb498f.css.map",
-    "main.8f7fdf44.js.map": "/mystic-vault--Interactive-Team-Puzzle/static/js/main.8f7fdf44.js.map"
+    "main.css": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/css/main.1bdb498f.css",
+    "main.js": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/js/main.be69c564.js",
+    "static/media/ctf-image-2.jpg": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/media/ctf-image-2.2b618e2837fb2efedd27.jpg",
+    "static/media/ctf-image-3.jpg": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/media/ctf-image-3.f2226b17ac39f7b47ed0.jpg",
+    "index.html": "/Mystic-Vault-An-Interactive-Team-Puzzle/index.html",
+    "main.1bdb498f.css.map": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/css/main.1bdb498f.css.map",
+    "main.be69c564.js.map": "/Mystic-Vault-An-Interactive-Team-Puzzle/static/js/main.be69c564.js.map"
   },
   "entrypoints": [
     "static/css/main.1bdb498f.css",
-    "static/js/main.8f7fdf44.js"
+    "static/js/main.be69c564.js"
   ]
 }
